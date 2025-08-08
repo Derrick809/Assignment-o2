@@ -1,0 +1,6 @@
+num_1=input("enter your first number:")
+num_2=input("enter your second number:")
+div=float(num_1) / float(num_2)
+div_mod=float(num_1) % float(num_2)
+print("division outcome is:"+str(div))
+print("div_mod outcome is:"+str(div_mod))

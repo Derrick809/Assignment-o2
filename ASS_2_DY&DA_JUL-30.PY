@@ -1,0 +1,7 @@
+num_1=input("enter your first number here:")
+num_2=input("enter your second number here:")
+num_3=input("enter your third number here:")
+sum=int(num_1) + int(num_2) + int(num_3)
+product=int(num_1) * int(num_2) * int(num_3)
+print("results:"+str(sum))
+print("results:"+str(product))
